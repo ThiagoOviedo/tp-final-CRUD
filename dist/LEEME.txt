@@ -1,0 +1,1 @@
+Sin ejecutables. El programa se ejecuta con Python desde la carpeta src.
