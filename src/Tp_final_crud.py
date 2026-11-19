@@ -8,7 +8,7 @@ import mysql.connector
 conexion = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="TU_CONTRASEÑA",
+    password="ACA_VA_TU_CONTRASEÑA",
     database="stock"
 )
 cursor = conexion.cursor()
